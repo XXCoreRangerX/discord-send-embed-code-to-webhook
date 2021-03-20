@@ -14,7 +14,7 @@ npm install discord.js
 
 1. Go to your package settings `Packages` -> `Settings View` -> `Manage package`
 2. Find the `discord-send-embed-code-to-webhook` package, click on `Settings`
-3. Paste your webhook URL in the config field, you can have up to 3 webhooks at once, but only the first has a Keybinding for it
+3. Paste your webhook URL in the config field
 4. Modify the embed title, color, footer text and image to your liking.
 
 
