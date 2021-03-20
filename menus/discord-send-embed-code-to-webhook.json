@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle discord-send-embed-code-to-webhook",
+        "command": "discord-send-embed-code-to-webhook:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "discord-send-embed-code-to-webhook",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "discord-send-embed-code-to-webhook:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
