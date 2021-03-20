@@ -1,3 +1,6 @@
+## 2.1.0
+* Fixed sending over 2048 characters crashing the package
+
 ## 2.0.0
 * A lot of bug fixes (locally)
 
