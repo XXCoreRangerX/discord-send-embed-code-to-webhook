@@ -1,5 +1,5 @@
 # discord-send-embed-code-to-webhook
-An customizable atom package used to easily send code extracts in an embed message to Discord using webhooks. Originally made by KyStolos.
+A customizable atom package used to easily send code extracts in an embed message to Discord using webhooks. Originally made by KyStolos.
 
 ![image](https://user-images.githubusercontent.com/61242573/111846640-88ede300-8907-11eb-9826-8f8c403e9adc.png)
 
