@@ -1,3 +1,6 @@
+## 2.2.0
+* Added more options (Author settings, title URL)
+
 ## 2.1.0
 * Fixed sending over 2048 characters crashing the package
 
