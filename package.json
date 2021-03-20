@@ -1,7 +1,7 @@
 {
   "name": "discord-send-embed-code-to-webhook",
   "main": "./lib/discord-send-embed-code-to-webhook",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "description": "Package used to easily send embed code extracts to Discord using webhooks. Credits to KyStolos for the original package.",
   "keywords": [
     "discord",
