@@ -12,14 +12,10 @@
     "webhook",
     "send"
   ],
-  "activationCommands": {
-    "atom-workspace": "discord-send-embed-code-to-webhook:toggle"
-  },
   "repository": "https://github.com/XXCoreRangerX/discord-send-embed-code-to-webhook",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
