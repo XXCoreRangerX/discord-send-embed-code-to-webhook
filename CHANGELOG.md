@@ -1,3 +1,6 @@
+## v3.1.0
+* Even if the code is more than 2048 characters, it will be fully uploaded to Hastebin.
+
 ## v3.0.0
 * Sending code to Hastebin is now possible, along with language highlighting!
 * README update
