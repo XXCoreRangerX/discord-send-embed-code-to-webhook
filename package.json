@@ -16,6 +16,6 @@
   "dependencies": {
     "hastebin-gen": "^2.0.0",
     "discord.js": "^12.5.0",
-  },
+  }
 }
 
