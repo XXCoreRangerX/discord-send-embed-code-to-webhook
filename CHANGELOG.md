@@ -1,3 +1,13 @@
+## v3.2.0
+* Make settings menu more clear and display in a selected order.
+* Sending more than Discord's max characters will now have a "cancel" button instead of "close". Why? Because yes, thats's why.
+* Switch to `https://hastebin.com` as the default Hastebin server.
+* Make Hastebin automatically assign file extensions to code snippets (fixes not being able to send code from an untitled file).
+* Dependencies (discord.js and hastebin-gen) will be (hopefully) installed automatically from now on.
+* Make the menu and context menu toggle a little bit better.
+* Default bot username is now Atom.
+* README update
+
 ## v3.1.0
 * Even if the code is more than 2048 characters, it will be fully uploaded to Hastebin.
 

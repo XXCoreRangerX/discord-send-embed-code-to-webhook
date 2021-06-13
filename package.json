@@ -1,7 +1,7 @@
 {
   "name": "discord-send-embed-code-to-webhook",
   "main": "./lib/discord-send-embed-code-to-webhook",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "Package used to easily send embed code extracts to Discord using webhooks. Credits to KyStolos for the original package.",
   "keywords": [
     "discord",
@@ -14,7 +14,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "discord.js": "^12.5.3",
-    "hastebin-gen": "^2.0.5"
-  }
+    "hastebin-gen": "^2.0.0",
+    "discord.js": "^12.5.0",
+  },
 }
+
