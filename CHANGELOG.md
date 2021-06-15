@@ -1,3 +1,9 @@
+## v3.3.0
+* **HUGE** code cleanup. **VASTLY** reduced startup time.
+* Beautified the code.
+* Removed `toggle` function, which was useless.
+* Removed `discord-send-embed-code-to-webhook-view.js` because it's no longer needed.
+
 ## v3.2.1
 * Fixed the embed not properly showing code contents when file has no extension (Null Grammar error).
 

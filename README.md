@@ -28,11 +28,11 @@ A customizable atom package used to easily send code extracts in an embed messag
 1. Go to your package settings `Packages` -> `Settings View` -> `Manage package`
 2. Find the `discord-send-embed-code-to-webhook` package, click on `Settings`
 3. Paste your webhook URL in the config field
-4. Modify the embed title, color, footer text and image to your liking.
+4. Modify the embed title, color, footer text, image and other options to your liking.
 
 ### Post your code to your Discord
 
 1. Select the code you want to share on Discord in your editor
-2. Press `ctrl+q` to send it to your webhook
+2. Press <kbd>Ctrl</kbd><kbd>Q</kbd> to send it to your webhook
 
 **Note:** This is a standalone package. You can either install `discord-send-**embed**-code-to-webhook` or `discord-send-code-to-webhook`. Do not install both packages or they won't work correctly!
