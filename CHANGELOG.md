@@ -1,3 +1,6 @@
+## v3.2.1
+* Fixed the embed not properly showing code contents when file has no extension (Null Grammar error).
+
 ## v3.2.0
 * Make settings menu more clear and display in a selected order.
 * Sending more than Discord's max characters will now have a "cancel" button instead of "close". Why? Because yes, thats's why.
