@@ -1,3 +1,6 @@
+## v3.3.1
+* Added an option to disable upload to Hastebin.
+
 ## v3.3.0
 * **HUGE** code cleanup. **VASTLY** reduced startup time.
 * Beautified the code.
